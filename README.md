@@ -23,7 +23,7 @@
     - dotnet add package Microsoft.EntityFrameworkCore.SqlServer 
     > *Caso queira utilizar outro banco de dados, instalar o pacote do banco desejado*.
     
-- No arquivo appsettings.Development.json inserir a configuração do seu banco de dados em "ConnetionStrings"
+- No arquivo appsettings.Development.json inserir a configuração do seu banco de dados em "ConnectionStrings"
 
 - Rodar a migration para criação do banco de dados com o comando: 
     - dotnet-ef database update.
