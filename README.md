@@ -8,7 +8,7 @@
  
 ## Funcionalidades do CRUD:
 - Criação de contatos com os campos: Nome, Telefone e Status;
-- Listagem de contato com por ID;
+- Listagem de contato por ID;
 - Listagem de contatos por nome;
 - Atualização de contatos;
 - Deleção de contatos.
